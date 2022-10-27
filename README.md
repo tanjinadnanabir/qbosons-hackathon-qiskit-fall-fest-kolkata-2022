@@ -6,10 +6,9 @@ Team Qbosons
 
 Team Members: Tanjin Adnan Abir, Vismay Joshi, Abhishek Rawat, Rajat Lakhera, Suprabhat Sinha
 
-Framework: [Qiskit](https://qiskit.org/)
+Framework: [Qiskit](https://qiskit.org/)  
 Classical ML Algorithms: SVM, KNN, Decision Tree, Logistic Regression  
 QML Algorithms: Variational Quantum Classifier (VQC), Quantum SVM (QSVM)  
 
 Reference:
 1. [Characterizing the Reproducibility of Noisy Quantum Circuits. S. Dasgupta, T. Humble.](https://www.mdpi.com/1099-4300/24/2/244)
-2. 
