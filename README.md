@@ -6,7 +6,7 @@ Team Qbosons
 
 Team Members: Tanjin Adnan Abir, Vismay Joshi, Abhishek Rawat, Rajat Lakhera, Suprabhat Sinha
 
-Framework: [Qiskit](https://qiskit.org/)  
+Framework: [Qiskit SDK](https://qiskit.org/)  
 Dataset: [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)  
 Classical ML Algorithms: SVM, KNN, Decision Tree, Logistic Regression  
 QML Algorithms: Variational Quantum Classifier (VQC), Quantum SVM (QSVM)  
