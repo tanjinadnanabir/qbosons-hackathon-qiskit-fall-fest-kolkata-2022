@@ -1,4 +1,4 @@
-Qiskit Fall Fest Kolkata Chapter Hackathon 2022  
+[Qiskit Fall Fest Kolkata Chapter Hackathon 2022](https://qiskit.org/events/fall-fest/)  
 
 Goal of the Hackathon Challenge: Finding the best test accuracy using one or more QML algorithms under the effect of noise.  
 
