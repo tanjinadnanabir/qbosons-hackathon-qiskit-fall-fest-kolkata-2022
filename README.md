@@ -4,7 +4,7 @@ Goal of the Hackathon Challenge: Finding the best test accuracy using one or mor
 
 Team Qbosons
 
-Team Members: Tanjin Adnan Abir, Vismay Joshi, Abhishek Rawat, Rajat Lakhera, Suprabhat Sinha
+Team Members: Vismay Joshi, Tanjin Adnan Abir, Abhishek Rawat, Rajat Lakhera, Suprabhat Sinha
 
 Framework: [Qiskit SDK](https://qiskit.org/)  
 Dataset: [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)  
