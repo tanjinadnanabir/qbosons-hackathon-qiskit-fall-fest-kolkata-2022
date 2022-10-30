@@ -2,6 +2,8 @@
 
 Goal of the Hackathon Challenge: Finding the best test accuracy using one or more QML algorithms under the effect of noise.  
 
+Task Description: Use a QML algorithm of your choice for classification using the well studied iris dataset. First, use a classical ML algorithm to find the test accuracy obtained in classical computers. Then use one or more QML algorithms of your choice to obtain the optimal test accuracy in an ideal noiseless scenario. The open challenge is to improve the test accuracy as far as possible in a noisy scenario.  
+
 Team Qbosons
 
 Team Members: Vismay Joshi, Tanjin Adnan Abir, Abhishek Rawat, Rajat Lakhera, Suprabhat Sinha
