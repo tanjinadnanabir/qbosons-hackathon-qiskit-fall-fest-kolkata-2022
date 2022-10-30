@@ -8,7 +8,7 @@ Team Members: Vismay Joshi, Tanjin Adnan Abir, Abhishek Rawat, Rajat Lakhera, Su
 
 Framework: [Qiskit SDK](https://qiskit.org/)  
 Dataset: [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris)  
-Classical ML Algorithms: SVM, KNN, Decision Tree, Logistic Regression  
+Classical ML Algorithms: SVM, KNN, Decision Tree, Logistic Regression, Random Forest  
 QML Algorithms: Variational Quantum Classifier (VQC), Quantum SVM (QSVM)  
 
 Reference:
