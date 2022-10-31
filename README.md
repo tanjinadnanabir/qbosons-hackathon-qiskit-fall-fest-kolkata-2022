@@ -1,8 +1,11 @@
 [Qiskit Fall Fest Kolkata Chapter Hackathon 2022](https://qiskit.org/events/fall-fest/)  
 
-Goal of the Hackathon Challenge: Finding the best test accuracy using one or more QML algorithms under the effect of noise.  
+Goal of the Hackathon Challenge: Finding the best test accuracy using one or more quantum machine learning algorithms, with or without the influence of noise.  
 
-Task Description: Use a QML algorithm of your choice for classification using the well studied iris dataset. First, use a classical ML algorithm to find the test accuracy obtained in classical computers. Then use one or more QML algorithms of your choice to obtain the optimal test accuracy in an ideal noiseless scenario. The open challenge is to improve the test accuracy as far as possible in a noisy scenario.  
+Task Description:  
+1. The dataset is first be trained using traditional machine learning algorithms to figure out the best test accuracy.  
+2. Then two QML algorithms VQC and QSVM are used to obtain best accuracy without the effect of noise.   
+3. And finally the target is to improve the test accuracy under noisy scenario.  
 
 Team Qbosons
 
